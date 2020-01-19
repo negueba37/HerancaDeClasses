@@ -1,0 +1,2 @@
+# HerancaDeClasses
+Herança - Exemplo básico 
